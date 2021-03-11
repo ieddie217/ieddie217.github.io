@@ -53,7 +53,13 @@
   .sidenav a:hover {
     color: #f1f1f1;
   }
-  
+  .portfolio {
+    font-size: 30px;
+    margin-left: 30px;
+  }
+  .portfolio a:hover {
+    color: teal;
+  }
   /* Style page content */
   .index {
     height: auto;
